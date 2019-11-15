@@ -1,0 +1,24 @@
+{
+  "name": "fast-command",
+  "version": "1.0.1",
+  "description": "Customize your command by alias.",
+  "main": "./lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "bin": {
+    "fast-command": "./lib/index.js"
+  },
+  "keywords": [
+    "fast command",
+    "command alias"
+  ],
+  "author": "yuuk",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "commander": "^4.0.1",
+    "inquirer": "^7.0.0",
+    "jsonfile": "^5.0.0"
+  }
+}

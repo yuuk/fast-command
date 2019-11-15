@@ -1,0 +1,6 @@
+{
+    "whoami": {
+        "command": "whoami",
+        "desc": "who am i"
+    }
+}

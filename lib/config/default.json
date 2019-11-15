@@ -1,0 +1,7 @@
+{
+  "remove-all-branch": {
+    "command": "git branch | grep -v \"master\" | xargs git branch -D",
+    "desc": "Remove all local branches except current branch and master branch.",
+    "confirm": true
+  }
+}
