@@ -1,6 +1,6 @@
 {
   "name": "fast-command",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Customize your command by alias.",
   "main": "./lib/index.js",
   "directories": {
@@ -13,6 +13,9 @@
     "fast command",
     "command alias"
   ],
+  "repository": {
+    "url": "https://github.com/yuuk/fast-command"
+  },
   "author": "yuuk",
   "license": "ISC",
   "dependencies": {
