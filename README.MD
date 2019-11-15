@@ -1,6 +1,6 @@
 # fast-command
 
-> Customize your command (git command) by alias.
+> Customize your command by alias.
 
 ## Install
 
